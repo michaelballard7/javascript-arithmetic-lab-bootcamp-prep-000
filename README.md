@@ -1,7 +1,15 @@
 JavaScript Arithmetic Lab
 ---
 
-## Objectives
+## Objec?ti?
+"'''''''''''''''\\]\]
+
+
+
+
+
+
+\\]=====ves
 
 1. Practice doing math with JavaScript
 2. Practice writing functions that do things with numbers
